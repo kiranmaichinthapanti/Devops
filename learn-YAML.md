@@ -78,7 +78,7 @@ learners:
   learner1:
     name: murali   # dictionary type - learners.learner1.name
     age: 30        # integer
-    email: "muralialakunlta3@gmail.com" # string
+    email: "kiran@gmail.com" # string
     isCourseCompleted: false  # boolean
     height: 5.8   # flot
     isEmployed: null   # Null
@@ -89,7 +89,7 @@ learners:
   learner2:
     name: krishna   # dictionary type - learners.leraner2.name
     age: 30        # integer
-    email: "krishnaalakunlta3@gmail.com" # string
+    email: "Abhi@gmail.com" # string
     isCourseCompleted: false  # boolean
     height: 5.8   # flot
     isEmployed: null   # Null
@@ -105,7 +105,7 @@ learners:
   learner1:
     name: murali   # dictionary type - learners.learner1.name
     age: 30        # integer
-    email: "muralialakunlta3@gmail.com" # string
+    email: "kiran@gmail.com" # string
 ```
 
 
